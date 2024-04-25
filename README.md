@@ -7,5 +7,5 @@
 - ⚠️ Anonim chat adı üstünde tanımadığınız insanlarla **belirlediğiniz** sunucuda 2 insanın konuşmasına yarar.
 - Altyapı 80 Star gelince paylaşılacaktır.
 - yaw buda burda kalmıs alın dotnet bilmiyorsanız ögrenin
-
+- çok saglam bir bottur dotnet olarak yazılmıs dotnet kurmayı bilen yapar kısaca anlatayım yazı yazdıracandan token girip o mesajı yazdırıp botun aslındadan da kullanacaksın
 👊✌️
